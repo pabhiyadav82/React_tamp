@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.08b3141b.css",
-    "main.js": "/static/js/main.5fafdf33.js",
-    "static/media/parallax-bkg1.jpg": "/static/media/parallax-bkg1.f6abc7c43552a97c0838.jpg",
-    "static/media/parallax-2.jpg": "/static/media/parallax-2.981a49e48859bc91542c.jpg",
-    "static/media/reservation-page.jpg": "/static/media/reservation-page.6391136ea4d6b082d5a6.jpg",
-    "static/media/slider-2.jpg": "/static/media/slider-2.a60c7746af8589deb6c5.jpg",
-    "static/media/slider-3.jpg": "/static/media/slider-3.150b3579ab650194662f.jpg",
-    "static/media/parallax-3.jpg": "/static/media/parallax-3.258ed151d24d611894b5.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.08b3141b.css.map": "/static/css/main.08b3141b.css.map",
-    "main.5fafdf33.js.map": "/static/js/main.5fafdf33.js.map"
+    "main.css": "/React_tamp/static/css/main.94e30053.css",
+    "main.js": "/React_tamp/static/js/main.5fafdf33.js",
+    "static/media/parallax-bkg1.jpg": "/React_tamp/static/media/parallax-bkg1.f6abc7c43552a97c0838.jpg",
+    "static/media/parallax-2.jpg": "/React_tamp/static/media/parallax-2.981a49e48859bc91542c.jpg",
+    "static/media/reservation-page.jpg": "/React_tamp/static/media/reservation-page.6391136ea4d6b082d5a6.jpg",
+    "static/media/slider-2.jpg": "/React_tamp/static/media/slider-2.a60c7746af8589deb6c5.jpg",
+    "static/media/slider-3.jpg": "/React_tamp/static/media/slider-3.150b3579ab650194662f.jpg",
+    "static/media/parallax-3.jpg": "/React_tamp/static/media/parallax-3.258ed151d24d611894b5.jpg",
+    "static/media/slick.svg": "/React_tamp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React_tamp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React_tamp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React_tamp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React_tamp/index.html",
+    "main.94e30053.css.map": "/React_tamp/static/css/main.94e30053.css.map",
+    "main.5fafdf33.js.map": "/React_tamp/static/js/main.5fafdf33.js.map"
   },
   "entrypoints": [
-    "static/css/main.08b3141b.css",
+    "static/css/main.94e30053.css",
     "static/js/main.5fafdf33.js"
   ]
 }
